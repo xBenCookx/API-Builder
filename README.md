@@ -20,7 +20,7 @@ This is a backend API for a social network application that provides the followi
 - Thought management: Create and delete thoughts
 - Reaction management: Add and remove reactions to thoughts
 
-Built using Node.js, Express.js, MongoDB (Mongoose), and TypeScript.
+Built using Node.js, Express.js, MongoDB (Mongoose), and TypeScript. I also used the Xpert learning assistant application to help clean and review my code.
 
 ## 🚀 Installation
 
